@@ -2,4 +2,4 @@ Interpreter for a programming language called miniPL. It's a simple educational 
 
 Context-free grammar:
 
-<program> &nbsp;&nbsp; -> <stmts>
+\<program> &nbsp;&nbsp; -> \<stmts>
